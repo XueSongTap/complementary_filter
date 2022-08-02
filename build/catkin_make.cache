@@ -1,0 +1,2 @@
+serial_example:yesense_driver
+-DCATKIN_DEVEL_PREFIX=/home/yxc/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/yxc/catkin_ws/install -G Unix Makefiles
