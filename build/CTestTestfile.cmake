@@ -6,4 +6,5 @@
 # testing this directory and lists subdirectories to be tested as well.
 subdirs("gtest")
 subdirs("serial_example")
+subdirs("imu_complementary_filter")
 subdirs("yesense_driver")
