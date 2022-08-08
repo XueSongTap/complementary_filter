@@ -133,6 +133,7 @@ if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   include("/home/yxc/catkin_ws/build/gtest/cmake_install.cmake")
   include("/home/yxc/catkin_ws/build/serial_example/cmake_install.cmake")
   include("/home/yxc/catkin_ws/build/imu_complementary_filter/cmake_install.cmake")
+  include("/home/yxc/catkin_ws/build/imu_filter_madgwick/cmake_install.cmake")
   include("/home/yxc/catkin_ws/build/yesense_driver/cmake_install.cmake")
 
 endif()

@@ -7,4 +7,5 @@
 subdirs("gtest")
 subdirs("serial_example")
 subdirs("imu_complementary_filter")
+subdirs("imu_filter_madgwick")
 subdirs("yesense_driver")
